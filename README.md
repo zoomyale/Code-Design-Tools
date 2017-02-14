@@ -1,6 +1,10 @@
 # Code + Design Tools
 
-*这个项目是受 [hzlzh](https://github.com/hzlzh) 同学的 [Best-App](https://github.com/hzlzh/Best-App) 启发，旨在收集设计与开发中使用到的优秀工具，以供索引及参考。*
+*这个项目是受 [hzlzh](https://github.com/hzlzh) 同学的 [Best-App](https://github.com/hzlzh/Best-App) 启发，旨在收集设计与开发中使用到的优秀且轻量的工具，以供索引及参考。*
+
+> 注1: 「优秀」的标准因人而异，本列表暂时参照的基本标准是── [Product Hunt](https://www.producthunt.com/) 中 Upvote 数达 100+。
+>
+> 注2：所谓「轻量」是相对「重量级」而言的，即不属于那些过于知名、大型的设计及开发工具，比如 *Adobe* Creative Suite、Xcode 等。
 
 
 ## 目录
@@ -28,7 +32,7 @@
 
 ## 2. 开发工具
 
-开发工具*类别*按语言或使用用途划分。
+开发工具 *类别* 按语言或使用用途划分，不收录 Xcode 等大型开发工具。
 
 | 类别            | 名称         | 功能简述                     | 平台          | 价格   |
 | ------------- | ---------- | ------------------------ | ----------- | ---- |
