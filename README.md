@@ -21,7 +21,7 @@
 | 类别   | 名称       | 功能简述        | 平台        | 价格   |
 | ---- | -------- | ----------- | --------- | ---- |
 | UI   | [Sketch] | 十项全能的矢量设计工具 | Mac / iOS | $99  |
-|      |          |             |           |      |
+| UI   | [Flinto] |       Prototype      | Mac / iOS | $99  |
 |      |          |             |           |      |
 |      |          |             |           |      |
 |      |          |             |           |      |
@@ -96,3 +96,4 @@ Released under [MIT] LICENSE
 [Fastlane]: https://github.com/fastlane/fastlane
 [Sketch]: https://sketchapp.com/
 [Slack]: https://slack.com/
+[Flinto]: https://www.flinto.com/
