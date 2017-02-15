@@ -3,7 +3,9 @@
 *这个项目是受 [hzlzh](https://github.com/hzlzh) 同学的 [Best-App](https://github.com/hzlzh/Best-App) 启发，旨在收集设计与开发中使用到的**优秀**且**轻量**的工具，以供索引及参考。*
 
 > 注1: 「优秀」的标准因人而异，本列表暂时参照的标准是── [Product Hunt](https://www.producthunt.com/) 或 [36Kr NEXT](http://next.36kr.com/posts) 中 Upvote 数达 100+。
+
 > 注2：所谓「轻量」是相对「重量级」而言的，即不属于那些过于知名、大型的设计及开发工具，比如 *Adobe* Creative Suite、Xcode 等。
+
 
 
 ## 目录
@@ -11,6 +13,8 @@
 1. 设计工具
 2. 开发工具
 3. 协作工具
+
+
 
 
 ## 1. 设计工具
@@ -21,6 +25,7 @@
 | ---- | -------- | -------------------- | --------- | ---- |
 | UI   | [Sketch] | 十项全能的矢量设计工具          | Mac / iOS | $99  |
 | UI   | [Flinto] | 与 Sketch 无缝对接的原型设计工具 | Mac / iOS | $99  |
+
 
 
 ## 2. 开发工具
@@ -39,6 +44,8 @@
 | ---- | ---------------- | ---------------------------------- | ----- | ---------------------------------------- |
 | IM   | [Slack]          | 跨平台的团队沟通 / 分享工具                    | 跨平台   | [Freemium](https://markplanteam.slack.com/pricing) |
 | Bot  | [Review Monitor] | 自动将 App Store 用户评价发至 Slack / email | Slack | Free                                     |
+
+
 
 ## 关于
 
