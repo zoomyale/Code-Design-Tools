@@ -21,10 +21,14 @@
 
 设计工具不局限于 UI 和原型工具，还包括 Mockup 展示和灵感获取工具等。
 
-| 类别   | 名称       | 功能简述                 | 平台        | 价格   |
-| ---- | -------- | -------------------- | --------- | ---- |
-| UI   | [Sketch] | 十项全能的矢量设计工具          | Mac / iOS | $99  |
-| UI   | [Flinto] | 与 Sketch 无缝对接的原型设计工具 | Mac / iOS | $99  |
+| 类别     | 名称                 | 功能简述                  | 平台              | 价格                   |
+| ------ | ------------------ | --------------------- | --------------- | -------------------- |
+| UI     | [Sketch]           | 十项全能的矢量设计工具           | Mac             | $99                  |
+| UI     | [Figma]            | 第一款实时协作设计工具           | Web / Mac / Win | Free                 |
+| 原型     | [Flinto]           | 与 Sketch 无缝对接的原型设计工具  | Mac             | $99                  |
+| 原型     | [墨刀]               | 在线快速原型设计与协作工具         | Web             | Freemium             |
+| 原型     | [Framer]           | 用 code 实现高度自定义的原型设计工具 | Mac             | $129 / YR or $15 /MO |
+| Mockup | [Mockuuups Studio] | 自动生成产品实景 Mockup       | Mac / Win       | Freemium             |
 
 
 
@@ -40,10 +44,10 @@
 
 ## 3. 协作工具
 
-| 类别   | 名称               | 功能简述                               | 平台    | 价格                                       |
-| ---- | ---------------- | ---------------------------------- | ----- | ---------------------------------------- |
-| IM   | [Slack]          | 跨平台的团队沟通 / 分享工具                    | 跨平台   | [Freemium](https://markplanteam.slack.com/pricing) |
-| Bot  | [Review Monitor] | 自动将 App Store 用户评价发至 Slack / email | Slack | Free                                     |
+| 类别   | 名称               | 功能简述                               | 平台    | 价格       |
+| ---- | ---------------- | ---------------------------------- | ----- | -------- |
+| IM   | [Slack]          | 跨平台的团队沟通 / 分享工具                    | 跨平台   | Freemium |
+| Bot  | [Review Monitor] | 自动将 App Store 用户评价发至 Slack / email | Slack | Free     |
 
 
 
@@ -77,3 +81,7 @@ Released under [MIT] LICENSE
 [Slack]: https://slack.com/
 [Flinto]: https://www.flinto.com/
 [Review Monitor]: https://launchkit.io/reviews/
+[Mockuuups Studio]: https://mockuuups.studio/
+[墨刀]: https://modao.cc/
+[Framer]: https://framer.com/
+[Figma]: https://www.figma.com/
