@@ -1,10 +1,12 @@
 # Code + Design Tools
 
-*这个项目的诞生，是因为自己的开发小团队内，经常会互相分享一些挖掘到的好用设计 / 开发 / 协作工具，尔后受到 [hzlzh](https://github.com/hzlzh) 同学的 [Best-App](https://github.com/hzlzh/Best-App) 启发，就有了这个推荐列表。列表旨在收集设计与开发中使用到的**优秀**且**轻量**的工具，以供索引及参考。*
+这个项目的诞生是因为自己的开发小团队内，经常会互相分享一些挖掘到的好用设计 / 开发 / 协作工具，尔后受到 [hzlzh](https://github.com/hzlzh) 同学的 [Best-App](https://github.com/hzlzh/Best-App) 启发，就有了这个推荐列表。
 
-> 注1: 「优秀」的标准因人而异，本列表暂时参照的标准是── [Product Hunt](https://www.producthunt.com/) 或 [36Kr NEXT](http://next.36kr.com/posts) 中 Upvote 数达 100+。
+列表旨在收集设计与开发中使用到的**优秀**且**轻量**的工具，以供索引及参考。
 
-> 注2：所谓「轻量」是相对「重量级」而言的，即不属于那些过于知名、大型的设计及开发工具，比如 *Adobe* Creative Suite、Xcode 等。
+**优秀**的标准因人而异，本列表暂时参照的标准是── [Product Hunt](https://www.producthunt.com/) 或 [36Kr NEXT](http://next.36kr.com/posts) 中 Upvote 数达 100+。
+
+所谓**轻量**则是相对「重量级」而言的，即不属于那些过于知名、大型的设计及开发工具，比如 *Adobe* Creative Suite、Xcode 等。
 
 
 
@@ -21,15 +23,15 @@
 
 设计工具不局限于 UI 和原型工具，还包括 Mockup 展示和灵感获取工具等。
 
-| 类别     | 名称                 | 功能简述                    | 平台          | 价格                |
-| ------ | ------------------ | ----------------------- | ----------- | ----------------- |
-| UI     | [Sketch]           | 十项全能的矢量设计工具             | Mac         | $99               |
-| UI     | [Figma]            | 第一款实时协作设计工具             | Web/Mac/Win | Free              |
-| 原型     | [Flinto]           | 与 Sketch 无缝对接的原型设计工具    | Mac         | $99               |
-| 原型     | [墨刀]               | 在线快速原型设计与协作工具           | Web         | Freemium          |
-| 原型     | [Framer]           | 用 code 实现高度自定义的原型设计工具   | Mac         | $129/YR or $15/MO |
-| 原型     | [ProtoPie]         | 可以使用手机传感和多点触控的移动端交互设计工具 | Mac         | $79               |
-| Mockup | [Mockuuups Studio] | 自动生成产品实景 Mockup         | Mac/Win     | Freemium          |
+| 类别     | 名称                 | 功能简述                   | 平台          | 价格                |
+| ------ | ------------------ | ---------------------- | ----------- | ----------------- |
+| UI     | [Sketch]           | 十项全能的矢量设计工具            | Mac         | $99               |
+| UI     | [Figma]            | 第一款实时协作设计工具            | Web/Mac/Win | Free              |
+| 原型     | [Flinto]           | 与 Sketch 无缝对接的原型设计工具   | Mac         | $99               |
+| 原型     | [墨刀]               | 在线快速原型设计与协作工具          | Web         | Freemium          |
+| 原型     | [Framer]           | 用 code 实现高度自定义的原型设计工具  | Mac         | $129/YR or $15/MO |
+| 原型     | [ProtoPie]         | 可以使用传感器和多点触控的移动端交互设计工具 | Mac         | $79               |
+| Mockup | [Mockuuups Studio] | 自动生成产品实景 Mockup        | Mac/Win     | Freemium          |
 
 
 
