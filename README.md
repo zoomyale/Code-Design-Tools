@@ -1,6 +1,6 @@
 # Code + Design Tools
 
-这个项目的诞生是因为自己的开发小团队内，经常会互相分享一些挖掘到的好用设计 / 开发 / 协作工具，尔后受到 [hzlzh](https://github.com/hzlzh) 同学的 [Best-App](https://github.com/hzlzh/Best-App) 启发，就有了这个推荐列表。
+这个项目的诞生是因为自己的开发小团队内，经常会互相分享一些挖掘到的好用设计 / 开发 / 协作工具。起初我们想要建立一个团队的工具 wiki，尔后受到 [hzlzh](https://github.com/hzlzh) 同学的 [Best-App](https://github.com/hzlzh/Best-App) 启发，就有了这个开源的推荐列表。
 
 列表旨在收集设计与开发中使用到的**优秀**且**轻量**的工具，以供索引及参考。
 
@@ -23,15 +23,17 @@
 
 设计工具不局限于 UI 和原型工具，还包括 Mockup 展示和灵感获取工具等。
 
-| 类别     | 名称                 | 功能简述                   | 平台          | 价格                |
-| ------ | ------------------ | ---------------------- | ----------- | ----------------- |
-| UI     | [Sketch]           | 十项全能的矢量设计工具            | Mac         | $99               |
-| UI     | [Figma]            | 第一款实时协作设计工具            | Web/Mac/Win | Free              |
-| 原型     | [Flinto]           | 与 Sketch 无缝对接的原型设计工具   | Mac         | $99               |
-| 原型     | [墨刀]               | 在线快速原型设计与协作工具          | Web         | Freemium          |
-| 原型     | [Framer]           | 用 code 实现高度自定义的原型设计工具  | Mac         | $129/YR or $15/MO |
-| 原型     | [ProtoPie]         | 可以使用传感器和多点触控的移动端交互设计工具 | Mac         | $79               |
-| Mockup | [Mockuuups Studio] | 自动生成产品实景 Mockup        | Mac/Win     | Freemium          |
+| 类别     | 名称                    | 功能简述                   | 平台          | 价格                |
+| ------ | --------------------- | ---------------------- | ----------- | ----------------- |
+| UI     | [Sketch]              | 十项全能的矢量设计工具            | Mac         | $99               |
+| UI     | [Figma]               | 第一款实时协作设计工具            | Web/Mac/Win | Free              |
+| UI     | [MockFlow StyleGuide] | 在线线框图协作工具              | Web         | Freemium          |
+| 原型     | [Balsamiq Mockups]    | 创意草图/低保真线框设计工具         | Mac/Win     | $89               |
+| 原型     | [Flinto]              | 与 Sketch 无缝对接的原型设计工具   | Mac         | $99               |
+| 原型     | [墨刀]                  | 在线快速原型设计与协作工具          | Web         | Freemium          |
+| 原型     | [Framer]              | 用 code 实现高度自定义的原型设计工具  | Mac         | $129/YR or $15/MO |
+| 原型     | [ProtoPie]            | 可以使用传感器和多点触控的移动端交互设计工具 | Mac         | $79               |
+| Mockup | [Mockuuups Studio]    | 自动生成产品实景 Mockup        | Mac/Win     | Freemium          |
 
 
 
@@ -49,8 +51,8 @@
 
 | 类别   | 名称               | 功能简述                             | 平台    | 价格       |
 | ---- | ---------------- | -------------------------------- | ----- | -------- |
-| IM   | [Slack]          | 跨平台的团队沟通 / 分享工具                  | 跨平台   | Freemium |
-| Bot  | [Review Monitor] | 自动将 App Store 用户评价发至 Slack/email | Slack | Free     |
+| Bot  | [Review Monitor] | 自动将 App Store 用户评价发至 Slack/email | Slack | Freemium |
+| Bot  | [Mail Clark]     | 用 Slack 自动接收和回复 email 以及 tweets  | Slack | Freemium |
 
 
 
@@ -89,3 +91,6 @@ Released under [MIT] LICENSE
 [Framer]: https://framer.com/
 [Figma]: https://www.figma.com/
 [ProtoPie]: http://www.protopie.cn/
+[MockFlow StyleGuide]: https://mockflow.com/apps/styleguide/
+[Balsamiq Mockups]: https://balsamiq.com/
+[Mail Clark]: https://mailclark.ai/
