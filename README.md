@@ -27,7 +27,7 @@
 | ------ | --------------------- | ---------------------- | ----------- | ----------------- |
 | UI     | [Sketch]              | 十项全能的矢量设计工具            | Mac         | $99               |
 | UI     | [Figma]               | 第一款实时协作设计工具            | Web/Mac/Win | Free              |
-| UI     | [MockFlow StyleGuide] | 在线线框图协作工具              | Web         | Freemium          |
+| UI     | [MockFlow StyleGuide] | 在线设计文档协作工具              | Web         | Freemium          |
 | 原型     | [Balsamiq Mockups]    | 创意草图/低保真线框设计工具         | Mac/Win     | $89               |
 | 原型     | [Flinto]              | 与 Sketch 无缝对接的原型设计工具   | Mac         | $99               |
 | 原型     | [墨刀]                  | 在线快速原型设计与协作工具          | Web         | Freemium          |
