@@ -45,6 +45,7 @@
 | 类别          | 名称         | 功能简述                   | 平台        | 价格   |
 | ----------- | ---------- | ---------------------- | --------- | ---- |
 | iOS/Android | [Fastlane] | iOS/Android App 自动部署工具 | Mac/Linux | 开源   |
+| CSS | [Animista] | 线上 CSS 动效代码生成工具 | Web | Free   |
 
 
 
@@ -96,3 +97,4 @@ Released under [MIT] LICENSE
 [Balsamiq Mockups]: https://balsamiq.com/
 [Mail Clark]: https://mailclark.ai/
 [Kite Compositor]: https://kiteapp.co/
+[Animista]: http://animista.net/
