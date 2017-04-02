@@ -23,18 +23,18 @@
 
 设计工具不局限于 UI 和原型工具，还包括 Mockup 展示和灵感获取工具等。
 
-| 类别     | 名称                    | 功能简述                   | 平台          | 价格                |
-| ------ | --------------------- | ---------------------- | ----------- | ----------------- |
-| UI     | [Sketch]              | 十项全能的矢量设计工具            | Mac         | $99               |
-| UI     | [Figma]               | 第一款实时协作设计工具            | Web/Mac/Win | Free              |
-| UI     | [MockFlow StyleGuide] | 在线设计文档协作工具              | Web         | Freemium          |
-| 原型     | [Balsamiq Mockups]    | 创意草图/低保真线框设计工具         | Mac/Win     | $89               |
-| 原型     | [Flinto]              | 与 Sketch 无缝对接的原型设计工具   | Mac         | $99               |
-| 原型     | [墨刀]                  | 在线快速原型设计与协作工具          | Web         | Freemium          |
-| 原型     | [Framer]              | 用 code 实现高度自定义的原型设计工具  | Mac         | $129/YR or $15/MO |
-| 原型     | [Kite Compositor]     | 基于 iOS/Mac 原生动画库的原型动效设计工具  | Mac         | $99               |
-| 原型     | [ProtoPie]            | 可以使用传感器和多点触控的移动端交互设计工具 | Mac         | $79               |
-| Mockup | [Mockuuups Studio]    | 自动生成产品实景 Mockup        | Mac/Win     | Freemium          |
+| 类别     | 名称                    | 功能简述                      | 平台          | 价格                |
+| ------ | --------------------- | ------------------------- | ----------- | ----------------- |
+| UI     | [Sketch]              | 十项全能的矢量设计工具               | Mac         | $99               |
+| UI     | [Figma]               | 第一款实时协作设计工具               | Web/Mac/Win | Free              |
+| UI     | [MockFlow StyleGuide] | 在线设计文档协作工具                | Web         | Freemium          |
+| 原型     | [Balsamiq Mockups]    | 创意草图/低保真线框设计工具            | Mac/Win     | $89               |
+| 原型     | [Flinto]              | 与 Sketch 无缝对接的原型设计工具      | Mac         | $99               |
+| 原型     | [墨刀]                  | 在线快速原型设计与协作工具             | Web         | Freemium          |
+| 原型     | [Framer]              | 用 code 实现高度自定义的原型设计工具     | Mac         | $129/YR or $15/MO |
+| 原型     | [Kite Compositor]     | 基于 iOS/Mac 原生动画库的原型动效设计工具 | Mac         | $99               |
+| 原型     | [ProtoPie]            | 可以使用传感器和多点触控的移动端交互设计工具    | Mac         | $79               |
+| Mockup | [Mockuuups Studio]    | 自动生成产品实景 Mockup           | Mac/Win     | Freemium          |
 
 
 
@@ -42,10 +42,11 @@
 
 开发工具「类别」按语言或使用用途划分。
 
-| 类别          | 名称         | 功能简述                   | 平台        | 价格   |
-| ----------- | ---------- | ---------------------- | --------- | ---- |
-| iOS/Android | [Fastlane] | iOS/Android App 自动部署工具 | Mac/Linux | 开源   |
-| CSS | [Animista] | 线上 CSS 动效代码生成工具 | Web | Free   |
+| 类别          | 名称         | 功能简述                   | 平台        | 价格       |
+| ----------- | ---------- | ---------------------- | --------- | -------- |
+| iOS/Android | [Fastlane] | iOS/Android App 自动部署工具 | Mac/Linux | 开源       |
+| CSS         | [Animista] | 线上 CSS 动效代码生成工具        | Web       | Free     |
+| Python      | [Kite]     | 联网编辑器辅助工具              | Mac/Win   | Freemium |
 
 
 
