@@ -101,3 +101,4 @@ Released under [MIT] LICENSE
 [Kite Compositor]: https://kiteapp.co/
 [Animista]: http://animista.net/
 [Eagle]: https://eagle.cool/
+[Kite]: https://kite.com/
