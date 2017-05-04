@@ -34,6 +34,7 @@
 | 原型     | [Framer]              | 用 code 实现高度自定义的原型设计工具     | Mac         | $129/YR or $15/MO |
 | 原型     | [Kite Compositor]     | 基于 iOS/Mac 原生动画库的原型动效设计工具 | Mac         | $99               |
 | 原型     | [ProtoPie]            | 可以使用传感器和多点触控的移动端交互设计工具    | Mac         | $79               |
+| 素材 | [Eagle]    | 轻量方便的图片素材管理工具        | Mac/Win     | $29.95          |
 | Mockup | [Mockuuups Studio]    | 自动生成产品实景 Mockup           | Mac/Win     | Freemium          |
 
 
@@ -99,3 +100,4 @@ Released under [MIT] LICENSE
 [Mail Clark]: https://mailclark.ai/
 [Kite Compositor]: https://kiteapp.co/
 [Animista]: http://animista.net/
+[Eagle]: https://eagle.cool/
